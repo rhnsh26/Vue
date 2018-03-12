@@ -1,0 +1,17 @@
+body{
+    background: #263238;
+}
+
+#app{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+    color: white;
+}
+.link, .link:visited, .link:active{
+    color:#4FC08D;
+}
+.link:hover{
+    color:#4FC08D;
+}
